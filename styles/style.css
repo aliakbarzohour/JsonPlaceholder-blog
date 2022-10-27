@@ -82,6 +82,6 @@ article:hover .author {
 
 @media screen and (min-width: 600px) {
     article {
-        width: 47%;
+        width: calc(100% / 2 - 10px);
     }
 }
